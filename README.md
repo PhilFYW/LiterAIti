@@ -75,4 +75,6 @@ python app.py
 4. OpenAI processes and summarizes the research landscape
 5. User receives research directions with continuous refinement based on feedback
 
+## Team Photo!
+
 ![Team Photo](image.png)
