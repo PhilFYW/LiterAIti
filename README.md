@@ -74,3 +74,5 @@ python app.py
 3. Tinyfish scrapes real-time research data from the web
 4. OpenAI processes and summarizes the research landscape
 5. User receives research directions with continuous refinement based on feedback
+
+![Team Photo](image.png)
